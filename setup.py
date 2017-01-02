@@ -7,14 +7,14 @@ def readme():
 
 
 setup(name='pymos',
-      version='1.0',
+      version='1.0.0',
       description='Application to create Mosaic',
       long_description=readme(),
       classifiers=[
-        'Development Status :: 5',
+        'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2.7',
-        'Topic :: Image Processing :: Mosaic',
+        'Topic :: Multimedia :: Graphics :: Graphics Conversion',
       ],
       keywords='mosaic image',
       url='https://github.com/kapilgarg1996/pymos',
