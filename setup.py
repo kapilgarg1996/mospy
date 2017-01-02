@@ -6,7 +6,7 @@ def readme():
         return f.read()
 
 
-setup(name='pymos',
+setup(name='mospy',
       version='1.0.0',
       description='Application to create Mosaic',
       long_description=readme(),
@@ -21,10 +21,10 @@ setup(name='pymos',
       author='Kapil Garg',
       author_email='kapilgarg1996@gmail.com',
       license='MIT',
-      packages=['pymos'],
+      packages=['mospy'],
       install_requires=['numpy', 'pillow'],
       entry_points={
-          'console_scripts': ['pymos=pymos.command_line:main'],
-          'gui_scripts': ['pymos-app=pymos.GUI:main']
+          'console_scripts': ['mospy=mospy.command_line:main'],
+          'gui_scripts': ['mospy-app=mospy.GUI:main']
       },
       zip_safe=False)
