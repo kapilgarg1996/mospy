@@ -17,11 +17,12 @@ setup(name='pymos',
         'Topic :: Image Processing :: Mosaic',
       ],
       keywords='mosaic image',
-      url='https://github.com/kapilgarg1996/pymos.git',
+      url='https://github.com/kapilgarg1996/pymos',
       author='Kapil Garg',
       author_email='kapilgarg1996@gmail.com',
       license='MIT',
       packages=['pymos'],
+      install_requires=['numpy', 'pillow'],
       entry_points={
           'console_scripts': ['pymos=pymos.command_line:main'],
           'gui_scripts': ['pymos-app=pymos.GUI:main']
