@@ -11,7 +11,7 @@ setup(name='pymos',
       description='Application to create Mosaic',
       long_description=readme(),
       classifiers=[
-        'Development Status :: 1 - Alpha',
+        'Development Status :: 5',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2.7',
         'Topic :: Image Processing :: Mosaic',
