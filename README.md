@@ -14,14 +14,14 @@ A simple python application to create a mosaic using any set of pictures.
     * image path : the image path whose mosaic is to be formed
     * eg. `mospy 32 ./pictures ./pictures/my.jpg`
 
-  * ![Mosaic](https://drive.google.com/open?id=0B8VOyX5ZTJ31N0dvamJ4VUtmV1k)
+  * ![Mosaic](https://drive.google.com/uc?export=view&id=0B8VOyX5ZTJ31N0dvamJ4VUtmV1k)
 
-  * ![Original Image](https://drive.google.com/open?id=0B8VOyX5ZTJ31MmRFOHpVNDlPX2M)
+  * ![Original Image](https://drive.google.com/uc?export=view&id=0B8VOyX5ZTJ31MmRFOHpVNDlPX2M)
 
 2. ### Graphical Interface
   * **mospy-app**
 
-  * ![GUI Mospy](https://drive.google.com/open?id=0B8VOyX5ZTJ31TFYxOXJxa0xBd3c)
+  * ![GUI Mospy](https://drive.google.com/uc?export=view&id=0B8VOyX5ZTJ31TFYxOXJxa0xBd3c)
 
 # Project Setup for development
 
