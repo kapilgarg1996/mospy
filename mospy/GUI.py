@@ -72,7 +72,7 @@ def startMosaic(dirName, fileName, num_grids, frame):
 def main():
     root = Tk()
     size = 220, 220
-    root.title('PYMOS')
+    root.title('MOSPY')
     app = MainFrame(root)
     root.geometry("480x360")
     root.mainloop()
